@@ -312,7 +312,7 @@ Smart-Attendance-System/
 ├── dataset/
 ├── trainer/
 │     └── trainer.yml
-│
+├── evaluation.py
 ├── capture.py
 ├── train.py
 ├── recognize.py
